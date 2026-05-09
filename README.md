@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Pulizie e Sanificazione** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://pulizie-sanificazione.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-pulizie-sanificazione/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-pulizie-sanificazione/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-pulizie-sanificazione.git
-cd federico-demo-pulizie-sanificazione
+git clone https://github.com/fedcal/demo-pulizie-sanificazione.git
+cd demo-pulizie-sanificazione
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:pulizie-sanificazione
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-pulizie-sanificazione/
+→ https://fedcal.github.io/demo-pulizie-sanificazione/
 
 ## Hub demos Federico
 
