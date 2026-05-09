@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Con quale frequenza posso prenotare le pulizie?",
+      "risposta": "Offriamo contratti settimanali, bisettimanali, mensili o interventi una tantum. La frequenza ideale dipende dalla metratura e dall'utilizzo degli spazi. Ti consigliamo in base alle tue esigenze durante il sopralluogo gratuito."
+    },
+    {
+      "domanda": "Utilizzate prodotti ecologici?",
+      "risposta": "Sì, utilizziamo esclusivamente prodotti certificati Ecolabel EU, biodegradabili e privi di solventi tossici. Siamo certificati ISO 14001 per la gestione ambientale. Su richiesta possiamo usare i tuoi prodotti preferiti."
+    },
+    {
+      "domanda": "Il primo sopralluogo è gratuito?",
+      "risposta": "Assolutamente sì. Prima di ogni contratto effettuiamo un sopralluogo gratuito per valutare gli spazi, definire il preventivo esatto e rispondere a tutte le tue domande senza impegno."
+    },
+    {
+      "domanda": "Come gestite la consegna delle chiavi?",
+      "risposta": "La gestione delle chiavi avviene tramite sistema tracciato: firma di ricevuta, chiavi identificate con codice anonimo (nessun nominativo o indirizzo), custodia in cassaforte. Possibilità anche di box codice o chiave magnetica."
+    },
+    {
+      "domanda": "Siete in regola con DURC e assicurazioni?",
+      "risposta": "Sì, il nostro DURC è sempre regolare. Siamo coperti da polizza RC professionale per danni a cose e persone. Su richiesta forniamo certificati DURC e attestazione assicurativa."
+    },
+    {
+      "domanda": "Quanto dura una sanificazione certificata?",
+      "risposta": "La durata varia in base alla metratura: in media 1-2h per 80-120m². Dopo l'intervento rilasciamo attestato di avvenuta sanificazione con prodotto biocida registrato al Ministero della Salute."
+    },
+    {
+      "domanda": "Effettuate pulizie post-cantiere con polveri di cemento?",
+      "risposta": "Sì, è uno dei nostri servizi specializzati. Utilizziamo aspiratori industriali con filtri HEPA per polveri sottili, prodotti specifici per rimozione cemento e calce, e protezioni per pavimenti e superfici delicate."
+    },
+    {
+      "domanda": "Si può richiedere sempre lo stesso team?",
+      "risposta": "Per i contratti ricorrenti assegniamo un team fisso dedicato. In caso di assenza di un membro del team, gestiamo la sostituzione internamente senza disservizi, informandoti in anticipo."
+    }
+  ]
+}

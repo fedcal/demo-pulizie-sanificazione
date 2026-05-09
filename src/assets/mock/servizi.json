@@ -1,0 +1,109 @@
+{
+  "categorie": [
+    { "id": "residenziale", "nome": "Residenziale", "ordine": 1 },
+    { "id": "commerciale", "nome": "Commerciale e Uffici", "ordine": 2 },
+    { "id": "specializzato", "nome": "Servizi Specializzati", "ordine": 3 }
+  ],
+  "servizi": [
+    {
+      "id": "pulizie-domestiche",
+      "categoria": "residenziale",
+      "nome": "Pulizie domestiche ordinarie",
+      "descrizione": "Pulizia completa appartamenti e ville: pavimenti, superfici, bagni, cucina, finestre interne. Cadenza settimanale, bisettimanale o mensile.",
+      "prezzoInfo": "€15–25/h",
+      "unita": "ora",
+      "icona": "🏠",
+      "evidenza": true
+    },
+    {
+      "id": "pulizie-fondo",
+      "categoria": "residenziale",
+      "nome": "Pulizie di fondo (deep cleaning)",
+      "descrizione": "Pulizia approfondita di appartamenti, incluse cucine incassate, bagni, scale, terrazzi e cantine. Ideale per prima volta o cambio inquilino.",
+      "prezzoInfo": "€20–30/h",
+      "unita": "ora",
+      "icona": "✨",
+      "evidenza": false
+    },
+    {
+      "id": "pulizie-uffici",
+      "categoria": "commerciale",
+      "nome": "Pulizie uffici e studi",
+      "descrizione": "Pulizia quotidiana o periodica di uffici open space, studi professionali, sale riunioni. Contratti mensili agevolati.",
+      "prezzoInfo": "€18–28/h",
+      "unita": "ora",
+      "icona": "🏢",
+      "evidenza": true
+    },
+    {
+      "id": "pulizie-negozi",
+      "categoria": "commerciale",
+      "nome": "Pulizie negozi e locali commerciali",
+      "descrizione": "Pulizia pavimenti, vetrine, casse, magazzini, spogliatoi. Disponibile in orario di chiusura serale o mattino presto.",
+      "prezzoInfo": "€18–25/h",
+      "unita": "ora",
+      "icona": "🛍️",
+      "evidenza": false
+    },
+    {
+      "id": "post-cantiere",
+      "categoria": "specializzato",
+      "nome": "Pulizie post-cantiere",
+      "descrizione": "Rimozione polvere cemento, residui edili, silicone, vernici, adesivi da pavimenti e superfici. Aspirazione professionale con filtri HEPA.",
+      "prezzoInfo": "€30/m²",
+      "unita": "m²",
+      "icona": "🏗️",
+      "evidenza": true
+    },
+    {
+      "id": "sanificazione-covid",
+      "categoria": "specializzato",
+      "nome": "Sanificazione e igienizzazione ambienti",
+      "descrizione": "Sanificazione certificata con nebulizzatori ULV e prodotti biocidi Presidio Medico Chirurgico. Efficace su batteri, virus (incluso SARS-CoV-2) e muffe.",
+      "prezzoInfo": "€100–300",
+      "unita": "intervento",
+      "icona": "🦠",
+      "evidenza": true
+    },
+    {
+      "id": "pulizie-vetri",
+      "categoria": "specializzato",
+      "nome": "Lavaggio vetri e facciate",
+      "descrizione": "Pulizia vetrate esterne e interne, facciate in vetro, lucernari. Utilizzo di sistemi a puro acqua deionizzata e aste telescopiche fino a 12m.",
+      "prezzoInfo": "€2–5/m²",
+      "unita": "m²",
+      "icona": "🪟",
+      "evidenza": false
+    },
+    {
+      "id": "lavaggio-tappeti",
+      "categoria": "specializzato",
+      "nome": "Lavaggio tappeti e moquette",
+      "descrizione": "Estrazione profonda con macchinari a schiuma secca o iniezione-estrazione. Elimina acari, allergeni, macchie ostinate. Asciugatura rapida 2–4h.",
+      "prezzoInfo": "€5–12/m²",
+      "unita": "m²",
+      "icona": "🪣",
+      "evidenza": false
+    },
+    {
+      "id": "pulizie-condomini",
+      "categoria": "commerciale",
+      "nome": "Pulizie condominiali",
+      "descrizione": "Gestione completa parti comuni: scale, androni, giardini, garage, locali tecnici. Contratti annuali con sopralluogo gratuito.",
+      "prezzoInfo": "€18–26/h",
+      "unita": "ora",
+      "icona": "🏘️",
+      "evidenza": false
+    },
+    {
+      "id": "pulizie-trasloco",
+      "categoria": "residenziale",
+      "nome": "Pulizie dopo trasloco",
+      "descrizione": "Pulizia completa dell'immobile dopo il trasloco, per consegna chiavi in perfette condizioni. Inclusa pulizia interna elettrodomestici su richiesta.",
+      "prezzoInfo": "€22–32/h",
+      "unita": "ora",
+      "icona": "📦",
+      "evidenza": false
+    }
+  ]
+}

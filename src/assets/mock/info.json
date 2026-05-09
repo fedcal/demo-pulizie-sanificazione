@@ -1,0 +1,43 @@
+{
+  "ragioneSociale": "PulisciCasa Pro S.r.l.",
+  "nomeCommerciale": "PulisciCasa Pro",
+  "tagline": "Pulizie domestiche, uffici e sanificazioni — Milano DURC ISO 14001",
+  "indirizzo": {
+    "via": "Via Padova 88",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20127",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4814,
+    "lng": 9.2123
+  },
+  "contatti": {
+    "telefono": "+39 02 5555 1234",
+    "whatsapp": "+39 333 5555 678",
+    "email": "info@puliscicastapro.it",
+    "social": {
+      "instagram": "https://instagram.com/puliscicastapro_demo",
+      "facebook": "https://facebook.com/puliscicastapro_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "07:00 – 20:00",
+    "martedi": "07:00 – 20:00",
+    "mercoledi": "07:00 – 20:00",
+    "giovedi": "07:00 – 20:00",
+    "venerdi": "07:00 – 20:00",
+    "sabato": "08:00 – 14:00",
+    "domenica": "Chiuso (urgenze su richiesta)"
+  },
+  "certificazioni": {
+    "durc": true,
+    "iso14001": true,
+    "noteProdotti": "Utilizziamo esclusivamente prodotti ecologici certificati Ecolabel EU, biodegradabili e privi di solventi tossici."
+  },
+  "metaSeo": {
+    "title": "PulisciCasa Pro — Pulizie domestiche, uffici e sanificazioni Milano",
+    "description": "Impresa di pulizie e sanificazioni a Milano. DURC OK, ISO 14001. Pulizie domestiche, uffici, post-cantiere, sanificazione Covid. Preventivo gratuito.",
+    "keywords": ["pulizie Milano", "impresa di pulizie Milano", "sanificazione Covid Milano", "pulizie uffici Milano", "pulizie post cantiere", "pulizie condomini Milano"]
+  }
+}

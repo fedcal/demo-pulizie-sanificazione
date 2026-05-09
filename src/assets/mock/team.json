@@ -1,0 +1,49 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Cristina Ferrara",
+      "ruolo": "Caposquadra Residenziale",
+      "bio": "18 anni di esperienza nelle pulizie residenziali. Specializzata in deep cleaning e gestione appartamenti di lusso. Coordina un team di 7 addetti.",
+      "anniEsperienza": 18,
+      "specialita": ["Deep cleaning", "Appartamenti di lusso", "Formazione addetti"],
+      "caposquadra": true
+    },
+    {
+      "id": 2,
+      "nome": "Dario Colombo",
+      "ruolo": "Caposquadra Commerciale",
+      "bio": "Ex responsabile facilities in una società di property management. Gestisce i contratti con uffici, negozi e condomini. Coordinatore di 6 addetti.",
+      "anniEsperienza": 12,
+      "specialita": ["Pulizie uffici", "Gestione contratti", "Coordinamento logistica"],
+      "caposquadra": true
+    },
+    {
+      "id": 3,
+      "nome": "Valentina Greco",
+      "ruolo": "Caposquadra Sanificazioni",
+      "bio": "Tecnico specializzato in sanificazioni certificate. Abilitata all'uso di biocidi Presidio Medico Chirurgico. Gestisce interventi post-cantiere e sanificazioni aziendali.",
+      "anniEsperienza": 9,
+      "specialita": ["Sanificazione certificata", "Post-cantiere", "ULV nebulizzazione"],
+      "caposquadra": true
+    },
+    {
+      "id": 4,
+      "nome": "Marco Rizzo",
+      "ruolo": "Addetto Senior — Vetri e Facciate",
+      "bio": "Specializzato nel lavaggio di vetrate esterne e facciate in vetro fino a 12 metri. Certificato per lavori in quota con sistemi IRATA.",
+      "anniEsperienza": 11,
+      "specialita": ["Vetrate esterne", "Acqua deionizzata", "Lavori in quota"],
+      "caposquadra": false
+    },
+    {
+      "id": 5,
+      "nome": "Fatima El Amrani",
+      "ruolo": "Addetta Senior — Tappeti e Moquette",
+      "bio": "Esperta in trattamento di tappeti pregiati, moquette e tessili. Utilizza sistemi iniezione-estrazione e schiuma secca per massima cura dei materiali.",
+      "anniEsperienza": 7,
+      "specialita": ["Tappeti pregiati", "Moquette", "Tessili delicati"],
+      "caposquadra": false
+    }
+  ]
+}
